@@ -1,0 +1,6 @@
+github.com/kikidana/go-say-hello v1.0.0 h1:DU4EyTa5sAcw41M8T83Ej9V6V1PiHfaVrrcGvm3Sqew=
+github.com/kikidana/go-say-hello v1.0.0/go.mod h1:+uvIENShiOT1CD1cjFoZz2cuuOrTrfwOz6eL6qBCYmM=
+github.com/kikidana/go-say-hello v1.1.0 h1:WBWjqQU8BoleAF3JVDrb+RhmgdWSqYUgSGXnw7OOhzQ=
+github.com/kikidana/go-say-hello v1.1.0/go.mod h1:+uvIENShiOT1CD1cjFoZz2cuuOrTrfwOz6eL6qBCYmM=
+github.com/kikidana/go-say-hello/v2 v2.0.0 h1:oMkXYn0rAhoHRMGBjJGU/yYEVySUi6Wu9dKzql++Q7w=
+github.com/kikidana/go-say-hello/v2 v2.0.0/go.mod h1:pNqtzlNAK2O9QR4pFdphf71oZxBhvRh4nZSkisiwzXs=
